@@ -1,4 +1,4 @@
-<div style="display:flex; justify-content:center; align-items:center"> 
+<div> 
     <h1>Hi, I'm Aurora</h1>
     <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=auroraMoreno&utm_content=farm">
         <img
