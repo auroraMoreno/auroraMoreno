@@ -1,4 +1,13 @@
-## Hi there 👋
+<div> 
+    <h1>Hi, I'm Aurora</h1>
+    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=auroraMoreno&utm_content=farm">
+        <img
+        src="https://render.gitanimals.org/farms/auroraMoreno"
+        width="600"
+        height="300"
+        />
+    </a>
+</div>
 
 <!--
 **auroraMoreno/auroraMoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
